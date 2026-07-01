@@ -1,0 +1,14 @@
+# Data contracts and raw inputs
+data_contract.csv
+data/
+
+# R execution artifacts
+.Rhistory
+.RData
+.Ruserdata
+regression_diagnostics.pdf
+
+# Python execution artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
